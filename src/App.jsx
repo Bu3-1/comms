@@ -36,6 +36,8 @@ const App = () => {
       <Contact data={landingPageData.Contact} />
     </div>
   );
+  console.log("La web funciona, yo soy reyes perez elisa !!");
+  console.info("Todo perfectamente bien!!");
 };
 
 export default App;
